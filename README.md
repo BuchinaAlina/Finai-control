@@ -38,7 +38,7 @@
 10. Конец.
 
 ## Блок-схема:
-![Блок-схема]("C:\Users\пользователь\Desktop\2024-01-20_15-38-11.png")
+![Блок-схема](https://github.com/BuchinaAlina/Final-control/blob/main/2024-01-20_15-38-11.png)
 
 
 ## Программа:
