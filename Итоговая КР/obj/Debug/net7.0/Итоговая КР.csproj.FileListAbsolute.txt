@@ -1,0 +1,14 @@
+C:\Users\пользователь\Desktop\итоговая\Final-control\Итоговая КР\bin\Debug\net7.0\Итоговая КР.exe
+C:\Users\пользователь\Desktop\итоговая\Final-control\Итоговая КР\bin\Debug\net7.0\Итоговая КР.deps.json
+C:\Users\пользователь\Desktop\итоговая\Final-control\Итоговая КР\bin\Debug\net7.0\Итоговая КР.runtimeconfig.json
+C:\Users\пользователь\Desktop\итоговая\Final-control\Итоговая КР\bin\Debug\net7.0\Итоговая КР.dll
+C:\Users\пользователь\Desktop\итоговая\Final-control\Итоговая КР\bin\Debug\net7.0\Итоговая КР.pdb
+C:\Users\пользователь\Desktop\итоговая\Final-control\Итоговая КР\obj\Debug\net7.0\Итоговая КР.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\пользователь\Desktop\итоговая\Final-control\Итоговая КР\obj\Debug\net7.0\Итоговая КР.AssemblyInfoInputs.cache
+C:\Users\пользователь\Desktop\итоговая\Final-control\Итоговая КР\obj\Debug\net7.0\Итоговая КР.AssemblyInfo.cs
+C:\Users\пользователь\Desktop\итоговая\Final-control\Итоговая КР\obj\Debug\net7.0\Итоговая КР.csproj.CoreCompileInputs.cache
+C:\Users\пользователь\Desktop\итоговая\Final-control\Итоговая КР\obj\Debug\net7.0\Итоговая КР.dll
+C:\Users\пользователь\Desktop\итоговая\Final-control\Итоговая КР\obj\Debug\net7.0\refint\Итоговая КР.dll
+C:\Users\пользователь\Desktop\итоговая\Final-control\Итоговая КР\obj\Debug\net7.0\Итоговая КР.pdb
+C:\Users\пользователь\Desktop\итоговая\Final-control\Итоговая КР\obj\Debug\net7.0\Итоговая КР.genruntimeconfig.cache
+C:\Users\пользователь\Desktop\итоговая\Final-control\Итоговая КР\obj\Debug\net7.0\ref\Итоговая КР.dll
